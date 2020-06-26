@@ -2,3 +2,4 @@ CREDENTIALS_FILE.json
 terraform.tfstate
 terraform.tfstate.backup
 /data/municipios.csv
+/.terraform/*
